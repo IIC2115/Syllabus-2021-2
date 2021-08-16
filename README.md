@@ -14,7 +14,7 @@
 
     **N = 0,5 x A + 0,3 x L + 0,2 x P**
 
-    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios y **P** es la nota de participación (promedio 6 talleres evaluables).
+    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios y **P** es la nota de participación (promedio talleres evaluables).
 
 
 ## Calendario 
