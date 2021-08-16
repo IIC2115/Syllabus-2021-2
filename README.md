@@ -19,23 +19,28 @@
 
 ## Calendario 
 <details open>
+<summary>Introducción</summary>
+<br>
+
+| Capítulo |	Instancia                    | Plataforma | Fecha         | Módulo | Recursos |
+| :-:      | :-:                            | :-:        | :-:           | :-:    | :-:      |
+| -        | Introducción                   |  Zoom      | Lunes 16/08   | 4      | Video - Slides |
+| -        | Ayudantía elementos básicos    |  Zoom      | Jueves 19/08  | 5      | Video - Slides - Código |
+</details>
+   
+<details open>
 <summary>Capítulo 1</summary>
 <br>
 
-| Capítulo |	Instancia    | Plataforma | Fecha        | Módulo | Recursos |
+| Capítulo |	Instancia     | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
-| 1        | Introducción    |  Zoom      | Lunes 16/08  | 4      | Video - Slides |
-<!--
-| 1        | Resumen parte a |  Zoom      | Lunes 22/03  | 4      | [Video](https://youtu.be/Aq_VkJdTPJ4) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Código](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) |
-| 1        | Taller T1a      |  Discord   | Lunes 22/03  | 5      | [Enunciado](../../blob/main/Talleres/T1a/T1a.pdf) |
-| 1        | Ayudantía T1a   |  Zoom      | Jueves 25/03 | 5      | [Video](https://youtu.be/s0EH6_guuMU) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1a/Ay_T1a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1a/Ay_T1a.ipynb) |
-| 1        | Resumen parte b |  Zoom      | Lunes 29/03  | 4      | [Video](https://youtu.be/xfcuh-1hzvk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos%20básicas.pdf) - [Código](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) |
-| 1        | Taller T1b      |  Discord   | Lunes 29/03  | 5      | [Enunciado](../../blob/main/Talleres/T1b/T1b.pdf) |
-| 1        | Jueves santo      |  -   | Jueves 01/04  | 5      | - |
-| 1        | Ayudantía T1b   |  Zoom      | Lunes 05/04 | 4      | [Video](https://youtu.be/INXBajFnJVg) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1b/Ay_T1b.pdf) - [Código](https://nbviewer.jupyter.org/github/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1b/Ay_T1b.ipynb) |
-| 1        | Actividad 1   |  Discord      | Lunes 05/04 | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
-| 1        | Actividad 1      |  Discord   | Jueves 08/04  | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
--->
+| 1        | Resumen parte a |  ¿Zoom?    | Lunes 23/08  | 4      | Video - Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) |
+| 1        | Taller T1a      |  Discord   | Lunes 23/08  | 5      | Enunciado |
+| 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | Video - Slides - Código |
+| 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | Video - Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) |
+| 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | Enunciado |
+| 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | Video - Slides - Código |
+| 1        | Actividad 1     |  Discord   | Lunes 06/09  | 4-5    | Enunciado |
 </details>
 
 <!--
