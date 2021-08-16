@@ -1,6 +1,6 @@
 # IIC2115 - Programación como Herramienta para la Ingeniería
 
-## Video y tutoriales
+## Videos y tutoriales
 
 1. [Tutorial CMD](https://www.youtube.com/watch?v=qgFmMU6Pukc) 
 1. [Tutorial Instalación Python y Jupyter](https://www.youtube.com/watch?v=FxHoi_ZRV4s) 
