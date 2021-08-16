@@ -12,22 +12,20 @@
 
 1. Las evaluaciones serán efectuadas por medio de actividades prácticas, laboratorios y participación (talleres). Se calculará **la nota del curso NC** como:
 
-    **NC = 0,5 x A + 0,4 x L + 0,1 x P**
+    **NC = 0,5 x A + 0,3 x L + 0,2 x P**
 
-    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios calculado de la forma `L = (min{L1;L2}+1,5*max{L1;L2})/2,5` y **P** es la nota de participación (promedio 6 mejores talleres).
-
-2. Para aprobar, A, y L deben ser mayores o iguales a 3,95.
-3. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
+    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios y **P** es la nota de participación (promedio 6 mejores talleres).
 
 
 ## Calendario 
-<details>
+<details open>
 <summary>Capítulo 1</summary>
 <br>
 
 | Capítulo |	Instancia    | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
-| 1        | Introducción    |  Zoom      | Lunes 15/03  | 4      | [Video](https://youtu.be/vj_BKgVOTa4) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Introducción%20al%20curso.pdf) |
+| 1        | Introducción    |  Zoom      | Lunes 16/08  | 4      | Video - Slides |
+<!--
 | 1        | Resumen parte a |  Zoom      | Lunes 22/03  | 4      | [Video](https://youtu.be/Aq_VkJdTPJ4) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Código](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) |
 | 1        | Taller T1a      |  Discord   | Lunes 22/03  | 5      | [Enunciado](../../blob/main/Talleres/T1a/T1a.pdf) |
 | 1        | Ayudantía T1a   |  Zoom      | Jueves 25/03 | 5      | [Video](https://youtu.be/s0EH6_guuMU) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1a/Ay_T1a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1a/Ay_T1a.ipynb) |
@@ -37,9 +35,10 @@
 | 1        | Ayudantía T1b   |  Zoom      | Lunes 05/04 | 4      | [Video](https://youtu.be/INXBajFnJVg) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1b/Ay_T1b.pdf) - [Código](https://nbviewer.jupyter.org/github/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1b/Ay_T1b.ipynb) |
 | 1        | Actividad 1   |  Discord      | Lunes 05/04 | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
 | 1        | Actividad 1      |  Discord   | Jueves 08/04  | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
-
+-->
 </details>
 
+<!--
 <details>
 <summary>Capítulo 2</summary>
 <br>
@@ -94,7 +93,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 5</summary>
 <br>
    
@@ -111,60 +110,6 @@
 
 
 </details>
-
-
-<!--| Esto es simplemente para tener el template para copy paste en un futuro semestre
-| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | Video - Slides - Código |
-| 4        | Taller parte a       |  Discord   | Lunes 31/05  | 5      | Enunciado |
-| 4        | Ayudantía parte a    |  Zoom      | Jueves 03/06 | 5      | Video - Slides - Código |
-| 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | Video - Slides - Código |
-| 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | Enunciado |
-| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | Video - Slides - Código |
-| 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | Enunciado |
-| 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | Enunciado |
--->
-
-<!--| L01 | Resumen materia capítulo                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Introducción.pdf)|
-| L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    | [Video](https://youtu.be/PbKdwaoWkJ8) - [Enunciado](../../blob/master/Laboratorios/L01/L01.pdf)|
-| L01 | Sesión de trabajo en laboratorio             |  Discord   | lunes 17 de agosto      |   4,5  |      |
-| L01 | Actividad de participación                   |  Discord   | jueves 20 de agosto     |   5    |      |
-|     |                                              |            |                         |        |      |
-| L02 | Resumen materia capítulo: parte 1            |  Zoom      | lunes 24 de agosto      |   4    | [Video](https://youtu.be/kSoDgmocaB0) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Resumen%20Capítulo%202%20-%20Parte%201%20-%20Estructuras%20de%20datos.pdf) |
-| L02 | Resumen materia capítulo: parte 2            |  Zoom      | lunes 24 de agosto      |   5    | [Video](https://youtu.be/WrG-VHqEKt4) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%202/Resumen%20Capítulo%202%20-%20Parte%202%20-%20Técnicas%20y%20Algoritmos.pdf) |
-| L02 | Revisión de enunciado       	              |  Zoom      | jueves 27 de agosto     |   5    | [Video](https://youtu.be/uzBU56wCp8M) - [Enunciado](../../blob/master/Laboratorios/L02/L02.pdf)      |
-| L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 31 de agosto      |   4,5  |      |
-| L02	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 3 de septiembre  |   5    | [Video](https://youtu.be/EbZb4tkdzUQ) - [Enunciado](../../blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201/Enunciado.pdf)    |
-| L02 | Sesión de trabajo en laboratorio             |  Discord   | lunes 7 de septiembre   |   4,5  |      |
-| L02 | Sesión de trabajo en laboratorio             |  Discord   | jueves 10 de septiembre |   5    |      |
-| L02 | Actividad de participación                   |  Discord   | lunes 14 de septiembre  |   4,5  |      |
-|     | Feriado                                      |            | jueves 17 de septiembre |   5    |      |
-|     |                                              |            |                         |        |      |
-| L03 | Resumen materia capítulo                     |  Zoom      | lunes 28 de septiembre  |   4    | [Video](https://youtu.be/nXDYpCh1dOc) - [Slides](../../blob/master/Material%20de%20clases/Cap%C3%ADtulo%203/Slides/Resumen%20Capitulo%203.pdf) |
-| L03 | Taller de revisión de ejercicios             |  Zoom      | lunes 28 de septiembre  |   5    | [Video](https://youtu.be/8QvPQ2ne0sE) - [Ejemplos](../../blob/master/Material%20de%20clases/Cap%C3%ADtulo%203/Ejemplos/) |
-| L03 | Revisión de enunciado       	              |  Zoom      | jueves 1 de octubre     |   5    | [Video](https://youtu.be/gWaBaDlJn_Y) - [Enunciado](../../blob/master/Laboratorios/L03/L03.pdf)    |
-| L03 | Sesión de trabajo en laboratorio             |  Discord   | lunes 5 de octubre      |   4,5  |      |
-| L03	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 8 de octubre     |   5    | [Video](https://youtu.be/7KuTrFbWXLc) - [Enunciado](../../blob/master/Ayudantías/Ayudantía%202/Enunciado.pdf) |
-|     | Feriado                                      |            | lunes 12 de octubre     |   4,5  |      |
-| L03 | Actividad de participación                   |  Discord   | jueves 15 de octubre    |   5    |      |       
-|     |                                              |            |                         |        |      |
-| L04 | Resumen materia capítulo                     |  Zoom      | lunes 19 de octubre     |   4    | [Video](https://youtu.be/CQjZokFB85Y) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%204/Slides/Resumen%20Capítulo%204%20-%20Análisis%20Exploratorio%20de%20Datos.pdf)|
-| L04 | Taller de revisión de ejercicios             |  Zoom      | lunes 19 de octubre     |   5    | [Video](https://youtu.be/WKhPoLe1ZsQ) - [Ejemplos](../../tree/master/Material%20de%20clases/Capítulo%204/)     |
-| L04 | Revisión de enunciado       	              |  Zoom      | jueves 22 de octubre    |   5    | [Video](https://youtu.be/FQXo1Ypeulo) - [Enunciado](../../blob/master/Laboratorios/L04/L04.pdf)     |
-| L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 26 de octubre     |   4,5  |      |
-| L04	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 29 de octubre    |   5    |  [Video](https://youtu.be/Yanq1oKbSSw) - [Solución](https://github.com/IIC2115/Syllabus/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203/Ayudant%C3%ADa%203.ipynb)    |
-| L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 2 de noviembre    |   4,5  |      |
-| L04 | Actividad de participación                   |  Discord   | jueves 5 de noviembre   |   5    |      |
-| L04 | Sesión de trabajo en laboratorio             |  Discord   | lunes 9 de noviembre    |   4,5  |      |
-| L04 | Sesión de trabajo en laboratorio             |  Discord   | jueves 12 de noviembre   |   5    |      |
-|     |                                              |            |                         |        |      |
-| L05 | Resumen materia capítulo                     |  Zoom      | lunes 16 de noviembre  |   4,5    | [Video](https://youtu.be/NDnJn9QxKO8) - [Slides](../../blob/master/Material%20de%20clases/Cap%C3%ADtulo%205/Slides/Resumen%20Cap%C3%ADtulo%205%20-%20Herramientas%20Avanzadas.pdf)|
-| L05 | Revisión de enunciado       	              |  Zoom      | jueves 19 de noviembre |   5    | [Video](https://youtu.be/wNIq7aVLci0) - [Enunciado](../../blob/master/Laboratorios/L05/L05.pdf) |
-| L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 23 de noviembre  |   4,5  |      |
-| L05	| Ayudantía y revisión de ejercicios           |  Zoom      | jueves 26 de noviembre |   5    |      |
-| L05 | Sesión de trabajo en laboratorio             |  Discord   | lunes 30 de noviembre  |   4,5  |      |
-| L05 | Actividad de participación                   |  Discord   | jueves 3 de diciembre  |   5    |      |
 -->
 
 ## Notas
