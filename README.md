@@ -34,10 +34,10 @@
 
 | Capítulo |	Instancia     | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
-| 1        | Resumen parte a |  ¿Zoom?    | Lunes 23/08  | 4      | Video - Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) |
+| 1        | Resumen parte a |  ¿Zoom?    | Lunes 23/08  | 4      | [Video](https://youtu.be/RC7LoZ0vef4) - [Slides](../../blob/main/Material%20de%20clases/Introducción.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) |
 | 1        | Taller T1a      |  Discord   | Lunes 23/08  | 5      | Enunciado |
 | 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | Video - Slides - Código |
-| 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | Video - Slides - [Material](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20b) |
+| 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | Video - Slides - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20b) |
 | 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | Enunciado |
 | 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | Video - Slides - Código |
 | 1        | Actividad 1     |  Discord   | Lunes 06/09  | 4-5    | Enunciado |
