@@ -18,7 +18,7 @@
 
 
 ## Calendario 
-<details open>
+<details>
 <summary>Introducción</summary>
 <br>
 
@@ -34,8 +34,8 @@
 
 | Capítulo |	Instancia     | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
-| 1        | Resumen parte a |  Zoom    | Lunes 23/08  | 4      | Video - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) |
-| 1        | Taller T1a      |  Discord   | Lunes 23/08  | 5      | Enunciado |
+| 1        | Resumen parte a |  Zoom    | Lunes 23/08  | 4      | [Video](https://youtu.be/o3HpASUOtEg) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) |
+| 1        | Taller T1a      |  Discord   | Lunes 23/08  | 5      | [Enunciado](../../blob/main/Talleres/T1a/T1a.pdf) |
 | 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | Video - Slides - Código |
 | 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | Video - Slides - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20b) |
 | 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | Enunciado |
