@@ -36,7 +36,7 @@
 | :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
 | 1        | Resumen parte a |  Zoom    | Lunes 23/08  | 4      | [Video](https://youtu.be/o3HpASUOtEg) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20a) |
 | 1        | Taller T1a      |  Discord   | Lunes 23/08  | 5      | [Enunciado](../../blob/main/Talleres/T1a/T1a.pdf) |
-| 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | Video - [Slides](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantia%20T1a.pdf) - [Código](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantia%20T1a.ipynb) |
+| 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | Video - [Slides](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantia%20T1a.pdf) - [Código](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantía%20T1a.ipynb) |
 | 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | Video - Slides - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20b) |
 | 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | Enunciado |
 | 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | Video - Slides - Código |
