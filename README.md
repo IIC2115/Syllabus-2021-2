@@ -39,7 +39,7 @@
 | 1        | Ayudantía T1a   |  Zoom      | Jueves 26/08 | 5      | [Video](https://youtu.be/1ehYI45-JWA) - [Slides](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantia%20T1a.pdf) - [Código](../../tree/main/Ayudant%C3%ADas/T1a/Ayudantía%20T1a.ipynb) |
 | 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | [Video](https://youtu.be/V-C5Lupjoys) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos%20básicas.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20b) |
 | 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | [Enunciado](../../blob/main/Talleres/T1b/T1b.pdf) |
-| 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | Video - [Código](../../blob/main/Ayudant%C3%ADas/T1b/Ayudant%C3%ADa%20T1b.ipynb) |
+| 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | [Video](https://youtu.be/rXF0UU6haPg) - [Código](../../blob/main/Ayudant%C3%ADas/T1b/Ayudant%C3%ADa%20T1b.ipynb) |
 | 1        | Actividad 1     |  Discord   | Lunes 06/09  | 4-5    | Enunciado |
 </details>
 
