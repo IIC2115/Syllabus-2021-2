@@ -28,7 +28,7 @@
 | -        | Ayudantía introductoria |  Zoom      | Jueves 19/08  | 5      | [Video](https://youtu.be/rAsvolgqnxs) |
 </details>
    
-<details open>
+<details>
 <summary>Capítulo 1</summary>
 <br>
 
@@ -40,27 +40,28 @@
 | 1        | Resumen parte b |  Zoom      | Lunes 30/08  | 4      | [Video](https://youtu.be/V-C5Lupjoys) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20b/Slides/01%20-%20Estructuras%20de%20datos%20básicas.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%201/Parte%20b) |
 | 1        | Taller T1b      |  Discord   | Lunes 30/08  | 5      | [Enunciado](../../blob/main/Talleres/T1b/T1b.pdf) |
 | 1        | Ayudantía T1b   |  Zoom      | Jueves 02/09 | 5      | [Video](https://youtu.be/rXF0UU6haPg) - [Código](../../blob/main/Ayudant%C3%ADas/T1b/Ayudant%C3%ADa%20T1b.ipynb) |
-| 1        | Actividad 1     |  Discord   | Lunes 06/09  | 4-5    | Enunciado |
+| 1        | Actividad 1     |  Discord   | Lunes 06/09  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A1/A1.pdf) |
 </details>
 
-<!--
-<details>
+
+<details open>
 <summary>Capítulo 2</summary>
 <br>
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 2        | Resumen parte a      |  Zoom      | Lunes 12/04  | 4      | [Video](https://youtu.be/qDUlhQFiST0) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Estructuras%20de%20datos%20avanzadas.pdf) - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
-| 2        | Taller parte a       |  Discord   | Lunes 12/04  | 5      | [Enunciado](../../blob/main/Talleres/T2a/T2a.pdf) |
-| 2        | Ayudantía parte a    |  Zoom      | Jueves 15/04 | 5      | [Video](https://youtu.be/TtDTYmKcCs0) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2a/Ay_T2a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2a/Ay_T2a.ipynb) |
-| 2        | Resumen parte b      |  Zoom      | Lunes 19/04  | 4      | [Video](https://youtu.be/JxJX0Brp4ZY) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Técnicas%20y%20Algoritmos.pdf) - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
-| 2        | Taller parte b       |  Discord   | Lunes 19/04  | 5      | [Enunciado](../../blob/main/Talleres/T2b/T2b.pdf) |
-| 2        | Ayudantía parte b    |  Zoom      | Jueves 22/04 | 5      | [Video](https://youtu.be/1YAQDkBzpOE) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ay_T2b.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ay_T2b.ipynb) |
-| 2        | Actividad práctica   |  Discord   | Lunes 26/04  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A2/A2.pdf) |
-| 2 - 3    | Lectura enunciado L1 |  Zoom      | Jueves 29/04 | 5      | [Video](https://youtu.be/2TonIlwAu08) - [Enunciado](../../blob/main/Laboratorios/L1/L1.pdf) |
+| 2        | Resumen parte a      |  Zoom      | Lunes 13/09  | 4      | Video - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Estructuras%20de%20datos%20avanzadas.pdf) - [Material](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
+| 2        | Taller parte a       |  Discord   | Lunes 13/09  | 5      | Enunciado |
+| 2        | Ayudantía parte a    |  Zoom      | Jueves 16/09 | 5      | Video - Slides - Código |
+| 2        | Resumen parte b      |  Zoom      | Lunes 20/09  | 4      | Video - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Técnicas%20y%20Algoritmos.pdf) - [Material](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
+| 2        | Taller parte b       |  Discord   | Lunes 20/09  | 5      | Enunciado |
+| 2        | Ayudantía parte b    |  Zoom      | Jueves 23/09 | 5      | Video - Slides - Código |
+| 2        | Actividad práctica   |  Discord   | Lunes 27/09  | 4-5    | Enunciado |
+| 2        | Lectura enunciado L1 |  Zoom      | Jueves 30/09 | 5      | Video - Enunciado |
 
 </details>
 
+<!--
 <details>
 <summary>Capítulo 3</summary>
 <br>
