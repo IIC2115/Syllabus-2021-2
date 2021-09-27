@@ -52,10 +52,10 @@
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
 | 2        | Resumen parte a      |  Zoom      | Lunes 13/09  | 4      | [Video](https://youtu.be/-DwLCdguUwQ) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Estructuras%20de%20datos%20avanzadas.pdf) - [Material](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
 | 2        | Taller parte a       |  Discord   | Lunes 13/09  | 5      | [Enunciado](../../blob/main/Talleres/T2a/T2a.pdf) |
-| 2        | Ayudantía parte a    |  Zoom      | Jueves 16/09 | 5      | [Video](https://youtu.be/qwBlPo2TJDQ) - Slides - Código |
+| 2        | Ayudantía parte a    |  Zoom      | Jueves 16/09 | 5      | [Video](https://youtu.be/qwBlPo2TJDQ) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2a/Ayudant%C3%ADa%20T2a.ipynb) |
 | 2        | Resumen parte b      |  Zoom      | Lunes 20/09  | 4      | [Video](https://youtu.be/qcD1piX0bCg) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Técnicas%20y%20Algoritmos.pdf) - [Material](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
 | 2        | Taller parte b       |  Discord   | Lunes 20/09  | 5      | [Enunciado](../../blob/main/Talleres/T2b/T2b.pdf) |
-| 2        | Ayudantía parte b    |  Zoom      | Jueves 23/09 | 5      | [Video](https://youtu.be/7k26wATkaP4) - Slides - Código |
+| 2        | Ayudantía parte b    |  Zoom      | Jueves 23/09 | 5      | [Video](https://youtu.be/7k26wATkaP4) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ayudant%C3%ADa%20T2b.ipynb) |
 | 2        | Actividad práctica   |  Discord   | Lunes 27/09  | 4-5    | Enunciado |
 | 2        | Lectura enunciado L1 |  Zoom      | Jueves 30/09 | 5      | Video - Enunciado |
 
