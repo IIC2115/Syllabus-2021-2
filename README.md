@@ -57,20 +57,24 @@
 | 2        | Taller parte b       |  Discord   | Lunes 20/09  | 5      | [Enunciado](../../blob/main/Talleres/T2b/T2b.pdf) |
 | 2        | Ayudantía parte b    |  Zoom      | Jueves 23/09 | 5      | [Video](https://youtu.be/7k26wATkaP4) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ayudant%C3%ADa%20T2b.ipynb) |
 | 2        | Actividad práctica   |  Discord   | Lunes 27/09  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A2/A2.pdf) |
-| 2        | Lectura enunciado L1 |  Zoom      | Jueves 30/09 | 5      | Video - [Enunciado](../../blob/main/Laboratorios/L1/L1.pdf) |
+| 2        | Lectura enunciado L1 |  Zoom      | Jueves 30/09 | 5      | [Video](https://youtu.be/HUCHMV3LwYk) - [Enunciado](../../blob/main/Laboratorios/L1/L1.pdf) |
 
 </details>
 
-<!--
-<details>
+<details open>
 <summary>Capítulo 3</summary>
 <br>
    
 | Capítulo |	Instancia        | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                | :-:        | :-:          | :-:    | :-:      |
-| 3        | Resumen parte a    |  Zoom      | Lunes 03/05  | 4      | [Video](https://youtu.be/wR_o-_U7bCY) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
-| 3        | Taller parte a     |  Discord   | Lunes 03/05  | 5      | [Enunciado](../../blob/main/Talleres/T3a/T3a.pdf) |
-| 3        | Ayudantía parte a  |  Zoom      | Jueves 06/05 | 5      | [Video](https://youtu.be/JcXo-jQWex8) - [Slides](../../blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.pdf) - [Código](../../blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.ipynb) |
+| 3        | Resumen parte a    |  Zoom      | Lunes 04/10 | 4      | [Clase Materia](https://youtu.be/wR_o-_U7bCY) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
+| 3        | Taller parte a     |  Discord   | Lunes 04/10  | 5      | Enunciado |
+| 3        | Ayudantía parte a  |  Zoom      | Jueves 07/10 | 5      | Video - Slides - Código |
+
+
+</details>
+
+<!--
 | -        | Semana receso      |  -         | -            | -      | - |
 | 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Código](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
 | 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
@@ -81,6 +85,7 @@
 
 </details>
 
+<!--
 <details>
 <summary>Capítulo 4</summary>
 <br>
