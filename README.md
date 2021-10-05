@@ -67,8 +67,8 @@
    
 | Capítulo |	Instancia        | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                | :-:        | :-:          | :-:    | :-:      |
-| 3        | Resumen parte a    |  Zoom      | Lunes 04/10 | 4      | [Clase Materia](https://youtu.be/wR_o-_U7bCY) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
-| 3        | Taller parte a     |  Discord   | Lunes 04/10  | 5      | Enunciado |
+| 3        | Resumen parte a    |  Zoom      | Lunes 04/10 | 4      | [Sesión materia](https://youtu.be/wR_o-_U7bCY) - [Sesión ejercicios](https://youtu.be/-rr-5M2Cct8)- [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
+| 3        | Taller parte a     |  Discord   | Lunes 04/10  | 5      | [Enunciado](../../blob/main/Talleres/T3a/T3a.pdf) |
 | 3        | Ayudantía parte a  |  Zoom      | Jueves 07/10 | 5      | Video - Slides - Código |
 
 
