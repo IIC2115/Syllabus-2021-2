@@ -44,7 +44,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 2</summary>
 <br>
    
@@ -65,23 +65,18 @@
 <summary>Capítulo 3</summary>
 <br>
    
-| Capítulo |	Instancia        | Plataforma | Fecha        | Módulo | Recursos |
-| :-:      | :-:                | :-:        | :-:          | :-:    | :-:      |
-| 3        | Resumen parte a    |  Zoom      | Lunes 04/10 | 4      | [Sesión materia](https://youtu.be/wR_o-_U7bCY) - [Sesión ejercicios](https://youtu.be/-rr-5M2Cct8)- [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
-| 3        | Taller parte a     |  Discord   | Lunes 04/10  | 5      | [Enunciado](../../blob/main/Talleres/T3a/T3a.pdf) |
-| 3        | Ayudantía parte a  |  Zoom      | Jueves 07/10 | 5      | Video - Slides - Código |
-
-
-</details>
-
-<!--
-| -        | Semana receso      |  -         | -            | -      | - |
-| 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Código](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
-| 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
-| 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | [Enunciado](../../blob/main/Talleres/T3b/T3b.pdf) |
-| 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | -      | [Video](https://youtu.be/dFUTLExY-RI) - [Código](../../blob/main/Ayudantías/T3b/Ay_T3b.ipynb) |
-| 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | [Enunciado](../../blob/main/Actividades%20Pr%C3%A1cticas/A3/A3.pdf) |
-| -        | Libre              | -          | Jueves 27/05 | -      |           |
+| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
+| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
+| 3        | Resumen parte a      |  Zoom      | Lunes 04/10 | 4      | [Sesión materia](https://youtu.be/wR_o-_U7bCY) - [Sesión ejercicios](https://youtu.be/-rr-5M2Cct8)- [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
+| 3        | Taller parte a       |  Discord   | Lunes 04/10  | 5      | [Enunciado](../../blob/main/Talleres/T3a/T3a.pdf) |
+| 3        | Ayudantía parte a    |  Zoom      | Jueves 07/10 | 5      | Video - Slides - Código |
+| 3        | Resumen parte b      |  Youtube   |              | -      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Material](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
+| 3        | Ejercicios parte b   |  Youtube   |              | -      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
+| 3        | Taller parte b       |  Discord   | Jueves 14/10 | 5      | Enunciado |
+| 3        | Ayudantía parte b    |  Youtube   |              | -      | Video - Código |
+| -        | Semana receso        |  -         | -            | -      | - |
+| 3        | Actividad práctica   |  Discord   | Lunes 25/10  | 4-5    | Enunciado |
+| 3        | Lectura Enunciado L2 | Zoom       | Jueves 28/10 | 5      | Video - Enunciado |
 
 </details>
 
