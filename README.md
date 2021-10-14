@@ -72,8 +72,8 @@
 | 3        | Ayudantía parte a    |  Zoom      | Jueves 07/10 | 5      | [Video](https://youtu.be/O3wW2yHqaWc) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ayudant%C3%ADa%20T3a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ayudantia.ipynb) |
 | 3        | Resumen parte b      |  Youtube   |              | -      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Material](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
 | 3        | Ejercicios parte b   |  Youtube   |              | -      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
-| 3        | Taller parte b       |  Discord   | Jueves 14/10 | 5      | Enunciado |
-| 3        | Ayudantía parte b    |  Youtube   |              | -      | Video - Código |
+| 3        | Taller parte b       |  Discord   | Jueves 14/10 | 5      | [Enunciado](../../blob/main/Talleres/T3b/T3b.pdf) |
+| 3        | Ayudantía parte b    |  -         |              | -      | Código |
 | -        | Semana receso        |  -         | -            | -      | - |
 | 3        | Actividad práctica   |  Discord   | Lunes 25/10  | 4-5    | Enunciado |
 | 3        | Lectura Enunciado L2 | Zoom       | Jueves 28/10 | 5      | Video - Enunciado |
