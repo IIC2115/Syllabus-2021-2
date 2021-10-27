@@ -80,24 +80,24 @@
 
 </details>
 
-<!--
-<details>
+<details open>
 <summary>Capítulo 4</summary>
 <br>
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | [Video](https://youtu.be/wzNrd-3q65s) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20a) |
-| 4        | Taller parte a       |  Discord   | Lunes 31/05  | 5      | [Enunciado](../../blob/main/Talleres/T4a/T4a.pdf) |
-| 4        | Ayudantía parte a    |  Zoom      | Jueves 03/06 | 5      | [Video](https://youtu.be/tpb3wL7QY5I) - [Código](../../blob/main/Ayudantías/T4a/Ay_T4a.ipynb) |
-| 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | [Video](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) |
-| 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
-| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | [Video](https://youtu.be/sUbl5y4RwqE) - [Código](../../blob/main/Ayudantías/T4b/Ay_T4b.ipynb) |
-| 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A4/A4.pdf) |
-| 4        | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | [Video](https://youtu.be/XuoEn7_wRZI) - [Enunciado](../../blob/main/Laboratorios/L2/L2.pdf) |
+| 4        | Resumen parte a      |  Youtube   | -            | -      | [Video](https://youtu.be/wzNrd-3q65s) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20a) |
+| 4        | Taller parte a       |  Discord   | Jueves 04/11 | 5      | Enunciado |
+| 4        | Ayudantía parte a    |  -         | Jueves 04/11 | 5      | Código |
+| 4        | Resumen parte b      |  Híbrida   | Lunes 08/11  | 4      | [Video resumen](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) - Video ejercicios |
+| 4        | Taller parte b       |  Híbrida   | Lunes 08/11  | 5      | Enunciado |
+| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/11 | 5      | Video - Código |
+| 4        | Actividad práctica   |  Híbrida   | Lunes 15/11  | 4-5    | Enunciado |
+| 4        | Lectura enunciado L3 |  Zoom      | Jueves 18/11 | 5      | Video - Enunciado |
 
 </details>
 
+<!--
 
 <details>
 <summary>Capítulo 5</summary>
