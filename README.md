@@ -76,7 +76,7 @@
 | 3        | Ayudantía parte b    |  -         |              | -      | Código |
 | -        | Semana receso        |  -         | -            | -      | - |
 | 3        | Actividad práctica   |  Discord   | Lunes 25/10  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A3/A3.pdf) |
-| 3        | Lectura Enunciado L2 | Zoom       | Jueves 28/10 | 5      | Video - Enunciado |
+| 3        | Lectura Enunciado L2 | Zoom       | Jueves 28/10 | 5      | Video - [Enunciado](../../blob/main/Laboratorios/L2/L2.pdf) |
 
 </details>
 
