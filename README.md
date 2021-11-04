@@ -61,7 +61,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 3</summary>
 <br>
    
