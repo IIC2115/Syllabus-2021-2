@@ -73,7 +73,7 @@
 | 3        | Resumen parte b      |  Youtube   |              | -      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Material](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
 | 3        | Ejercicios parte b   |  Youtube   |              | -      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
 | 3        | Taller parte b       |  Discord   | Jueves 14/10 | 5      | [Enunciado](../../blob/main/Talleres/T3b/T3b.pdf) |
-| 3        | Ayudantía parte b    |  -         |              | -      | Código |
+| 3        | Ayudantía parte b    |  -         |              | -      | [Código](../../blob/main/Ayudantías/T3b/T3b_pauta.ipynb) |
 | -        | Semana receso        |  -         | -            | -      | - |
 | 3        | Actividad práctica   |  Discord   | Lunes 25/10  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A3/A3.pdf) |
 | 3        | Lectura Enunciado L2 | Zoom       | Jueves 28/10 | 5      | [Video](https://youtu.be/NSbtzwGJKE8) - [Enunciado](../../blob/main/Laboratorios/L2/L2.pdf) |
@@ -88,10 +88,10 @@
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
 | 4        | Resumen parte a      |  Youtube   | -            | -      | [Video](https://youtu.be/wzNrd-3q65s) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20a) |
 | 4        | Taller parte a       |  Discord   | Jueves 04/11 | 5      | [Enunciado](../../blob/main/Talleres/T4a/T4a.pdf) |
-| 4        | Ayudantía parte a    |  -         | Jueves 04/11 | 5      | Código |
+| 4        | Ayudantía parte a    |  -         | Jueves 04/11 | 5      | [Código](../../blob/main/Ayudantías/T4a/T4a_pauta.ipynb) |
 | 4        | Resumen parte b      |  Híbrida   | Lunes 08/11  | 4      | [Video resumen](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) - [Video ejercicios](https://youtu.be/S4a-Xk354l8) |
 | 4        | Taller parte b       |  Híbrida   | Lunes 08/11  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
-| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/11 | 5      | Video - Código |
+| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/11 | 5      | [Video](https://youtu.be/X82W764JsBo) - [Código](../../blob/main/Ayudantías/T4b/T4b_pauta.ipynb) |
 | 4        | Actividad práctica   |  Híbrida   | Lunes 15/11  | 4-5    | Enunciado |
 | 4        | Lectura enunciado L3 |  Zoom      | Jueves 18/11 | 5      | Video - Enunciado |
 
