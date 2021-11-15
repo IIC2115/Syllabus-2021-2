@@ -92,7 +92,7 @@
 | 4        | Resumen parte b      |  Híbrida   | Lunes 08/11  | 4      | [Video resumen](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) - [Video ejercicios](https://youtu.be/S4a-Xk354l8) |
 | 4        | Taller parte b       |  Híbrida   | Lunes 08/11  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
 | 4        | Ayudantía parte b    |  Zoom      | Jueves 11/11 | 5      | [Video](https://youtu.be/X82W764JsBo) - [Código](../../blob/main/Ayudantías/T4b/T4b_pauta.ipynb) |
-| 4        | Actividad práctica   |  Híbrida   | Lunes 15/11  | 4-5    | Enunciado |
+| 4        | Actividad práctica   |  Híbrida   | Lunes 15/11  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A4/A4.pdf) |
 | 4        | Lectura enunciado L3 |  Zoom      | Jueves 18/11 | 5      | Video - Enunciado |
 
 </details>
