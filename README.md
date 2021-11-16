@@ -104,10 +104,10 @@
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 5        | Resumen parte a (hasta 1:46:33)  |  Híbrida   | Lunes 22/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides]() - [Código] - (../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Video ejercicios]()|
-| 5        | Taller parte a       |  Híbrida   | Lunes 22/11  | 5      | [Enunciado] |
-| 5        | Resumen parte b (hasta 1:46:33)  |  Híbrida   | Lunes 29/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides]() - [Código] - (../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) [Video ejercicios]()|
-| 5        | Taller parte b       |  Híbrida   | Lunes 29/11  | 5      | [Enunciado] |
+| 5        | Resumen parte a (hasta 1:46:33)  |  Híbrida   | Lunes 22/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%205/Parte%20a/Slides/01%20Herramientas%20Avanzadas%20de%20SIG.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - Video ejercicios|
+| 5        | Taller parte a       |  Híbrida   | Lunes 22/11  | 5      | Enunciado |
+| 5        | Resumen parte b (hasta 1:46:33)  |  Híbrida   | Lunes 29/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides]() - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) - Video ejercicios|
+| 5        | Taller parte b       |  Híbrida   | Lunes 29/11  | 5      | Enunciado |
 
 </details>
    
