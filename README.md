@@ -97,26 +97,30 @@
 
 </details>
 
-<!--
 
-<details>
+<details open>
 <summary>Capítulo 5</summary>
 <br>
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 4        | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | [Video](https://youtu.be/XuoEn7_wRZI) - [Enunciado](../../blob/main/Laboratorios/L2/L2.pdf) |
-| 5        | Resumen parte a y b (hasta 1:46:33)  |  Youtube   | -            | -      | [Video](https://youtu.be/NDnJn9QxKO8) - [Código a](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Código b](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b)|
-| -        | Feriado       |  -   | Lunes 21/05  | -      | - |
+| 5        | Resumen parte a (hasta 1:46:33)  |  Híbrida   | Lunes 22/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides]() - [Código] - (../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Video ejercicios]()|
+| 5        | Taller parte a       |  Híbrida   | Lunes 22/11  | 5      | [Enunciado] |
+| 5        | Resumen parte b (hasta 1:46:33)  |  Híbrida   | Lunes 29/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides]() - [Código] - (../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) [Video ejercicios]()|
+| 5        | Taller parte b       |  Híbrida   | Lunes 29/11  | 5      | [Enunciado] |
+
+</details>
+   
+<!--
+
 | -        | Feriado     |  -      | Jueves 24/06 | -      | -  |
 | -        | Feriado              |  -         | Lunes 28/06  | -      | - |
 | 5        | Ayudantía preparación A5    |  Zoom      | Jueves 01/07 | 5      | [Video](https://youtu.be/1IafpcV-9YI) - [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Enunciado_Ay_C5.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Ay_C5.ipynb) |
 | 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A5/A5.pdf) |
 | 4        | Entrega L2           | -          | Viernes 16/07 | -      |           |
 
-
-</details>
 -->
+
 
 ## Notas
 Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING).
