@@ -93,7 +93,6 @@
 | 4        | Taller parte b       |  Híbrida   | Lunes 08/11  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
 | 4        | Ayudantía parte b    |  Zoom      | Jueves 11/11 | 5      | [Video](https://youtu.be/X82W764JsBo) - [Código](../../blob/main/Ayudantías/T4b/T4b_pauta.ipynb) |
 | 4        | Actividad práctica   |  Híbrida   | Lunes 15/11  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A4/A4.pdf) |
-| 4        | Lectura enunciado L3 |  Zoom      | Jueves 18/11 | 5      | Video - Enunciado |
 
 </details>
 
@@ -104,10 +103,13 @@
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 5        | Resumen parte a (hasta 1:16:04)  |  Híbrida   | Lunes 22/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%205/Parte%20a/Slides/01%20Herramientas%20Avanzadas%20de%20SIG.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - Video ejercicios|
-| 5        | Taller parte a       |  Híbrida   | Lunes 22/11  | 5      | Enunciado |
+| 5        | Resumen parte a (hasta 1:16:04)  |  Híbrida   | Lunes 22/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Slides](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%205/Parte%20a/Slides/01%20Herramientas%20Avanzadas%20de%20SIG.pdf) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Video ejercicios](https://youtu.be/elEgV_bKo90)|
+| 5        | Taller parte a       |  Híbrida   | Lunes 22/11  | 5      | [Enunciado](../../blob/main/Talleres/T5a/T5a.pdf) |
+| 5        | Ayudantía parte a    |  Zoom      | Jueves 25/11 | 5      | Video - Código |
 | 5        | Resumen parte b (1:17:04 - 1:46:33)  |  Híbrida   | Lunes 29/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) - Video ejercicios|
 | 5        | Taller parte b       |  Híbrida   | Lunes 29/11  | 5      | Enunciado |
+| 5        | Ayudantía parte b    |  Zoom      | Jueves 02/12 | 5      | Video - Código |
+| 5        | Actividad práctica   |  Híbrida   | Lunes 06/12  | 4-5    | Enunciado |
 
 </details>
    
