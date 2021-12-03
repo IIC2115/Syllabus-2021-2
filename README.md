@@ -108,7 +108,7 @@
 | 5        | Ayudantía parte a    |  Zoom      | Jueves 25/11 | 5      | Código |
 | 5        | Resumen parte b (1:17:04 - 1:46:33)  |  Híbrida   | Lunes 29/11            | 4      | [Video resumen](https://youtu.be/NDnJn9QxKO8) - [Material](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) - [Video ejercicios](https://youtu.be/d9-ZiOU6Xvc)|
 | 5        | Taller parte b       |  Híbrida   | Lunes 29/11  | 5      | [Enunciado](../../blob/main/Talleres/T5b/T5b.pdf) |
-| 5        | Ayudantía parte b    |  Zoom      | Jueves 02/12 | 5      | Video - Código |
+| 5        | Ayudantía parte b    |  Zoom      | Jueves 02/12 | 5      | [Video](https://youtu.be/aYc4N8yvxYg) - Código |
 | 5        | Actividad práctica   |  Híbrida   | Lunes 06/12  | 4-5    | Enunciado |
 
 </details>
